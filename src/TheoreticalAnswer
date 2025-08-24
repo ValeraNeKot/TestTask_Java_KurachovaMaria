@@ -1,0 +1,2 @@
+1. No, it's not correct, because there is an unmatched opening round bracket.
+2. Add a ) before the last ] : [((())()(()))]
